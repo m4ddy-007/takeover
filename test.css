@@ -1,0 +1,4 @@
+/* malicious code  */
+script {
+  alert("XSS attack!");
+}
